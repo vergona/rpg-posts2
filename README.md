@@ -1,7 +1,4 @@
 # Winterland-Ursula
-Texts about Ursula and her surroundings.
-
-# Winterland-Ursula
 vergona.github.io/Winterland-Ursula/
 Тексты про Урсулу и окружающих.
 
