@@ -12,11 +12,11 @@
 Влюбиться в меня. Ведьма, чужачка, пугало..
 А ты бы могла так поступить?
 Как?
-Полюбить 
+Полюбить меня. 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTQwNjEzMV19
+eyJoaXN0b3J5IjpbMTc4OTU2Njk2Nl19
 -->
