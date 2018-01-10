@@ -7,10 +7,12 @@
 :hp-tags:Иллурия, Винтерленд, тексты, НРИ, квента
 
 ------------
-
+Только ты один мог так поступить!
+Как?
+Влюбиться в меня. Ведьма, чужач
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5OTc4MDY4XX0=
+eyJoaXN0b3J5IjpbLTIxMDczNTA0ODldfQ==
 -->
