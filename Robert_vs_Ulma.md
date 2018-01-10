@@ -10,11 +10,13 @@
 Только ты один мог так поступить!
 Как?
 Влюбиться в меня. Ведьма, чужачка, пугало..
-
+А ты бы могла так поступить?
+Как?
+Полюбить 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDY0NDEwN119
+eyJoaXN0b3J5IjpbMTE2NTQwNjEzMV19
 -->
