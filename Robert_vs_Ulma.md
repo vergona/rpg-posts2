@@ -9,10 +9,12 @@
 ------------
 Только ты один мог так поступить!
 Как?
-Влюбиться в меня. Ведьма, чужач
+Влюбиться в меня. Ведьма, чужачка, пугало..
+
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDczNTA0ODldfQ==
+eyJoaXN0b3J5IjpbLTg1MDY0NDEwN119
 -->
