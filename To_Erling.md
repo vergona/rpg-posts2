@@ -1,5 +1,6 @@
 Здравствуй, отец.
 
+Это письмо
 
 
 
@@ -9,10 +10,9 @@
 
 
 
-
-Урсула, Скагге и Эллингссен.
+Урсула, Скагге и Эллингсен.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTI5OTU1NV19
+eyJoaXN0b3J5IjpbMjA1ODgwMzA3M119
 -->
