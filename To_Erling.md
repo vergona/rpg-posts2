@@ -1,6 +1,6 @@
 Здравствуй, отец.
 
-Это письмо
+Это письмо должен будет передать твой слуга Арвид Аск. Я
 
 
 
@@ -14,5 +14,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1ODgwMzA3M119
+eyJoaXN0b3J5IjpbLTQ0ODU5NzE1N119
 -->
