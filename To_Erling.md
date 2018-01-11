@@ -1,7 +1,8 @@
+Здравствуй, отец.
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxMDk5NjkzXX0=
+eyJoaXN0b3J5IjpbLTIwNzQ4NjAyMDRdfQ==
 -->
