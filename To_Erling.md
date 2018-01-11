@@ -20,22 +20,15 @@
 
 Я не знаю, что расскажет тебе скальд и что ты решишь.
 
-
+(???)
 
 
 
 
 ---
-
-
-
-
-
-
-
 Урсула. Скагге, Эллингсен и Детфлессен.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzNDI4Mjk5XX0=
+eyJoaXN0b3J5IjpbLTEyNTg1ODcwODNdfQ==
 -->
