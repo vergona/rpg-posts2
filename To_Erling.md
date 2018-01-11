@@ -17,9 +17,9 @@
 
 
 
-Урсула, Скагге и Эллингсен.
+Урсула, Скагге, Эллингсен и Детфлессен.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4MjgzNTYwXX0=
+eyJoaXN0b3J5IjpbMjcwMzQ5MjE3XX0=
 -->
