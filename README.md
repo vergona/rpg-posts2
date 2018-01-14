@@ -27,7 +27,7 @@ www.vergona.github.io/Winterland-Ursula/
 ## Последовательность текстов
 Квента (по "обрывкам воспоминаний", до Восточного)
 
- 1. [Ulma_Curse](https://github.com/vergona/Winterland-Ursula/blob/master/Ulma_curse.md) ("Проклятье Ульмы") - Ульма прогоняет Роберта из избы и запрещает думать об Урсуле.
+ 1. [Ulma Curse](https://github.com/vergona/Winterland-Ursula/blob/master/Ulma_curse.md) ("Проклятье Ульмы") - Ульма прогоняет Роберта из избы и запрещает думать об Урсуле.
 
  2. [Midsummer Sula](https://github.com/vergona/Winterland-Ursula/blob/master/Midsummer_Sula.md) ("Ярмарка Середины Лета") - Ульма никогда не отпускала ученицу на ярмарку Середины Лета. И вот однажды девушке это надоело..
  
@@ -37,8 +37,8 @@ www.vergona.github.io/Winterland-Ursula/
 1  [Night and Norrastaden](https://github.com/vergona/Winterland-Ursula/blob/master/Night_n_Norrastaden.md) ("Одна ночь в Норрастадене") - Урсула, Роберт и искорка. Художественная обработка чат-лога.
 
 Сказки (художественная интерпретация реальных историй):  
-1. [Feathered folk](https://github.com/vergona/Winterland-Ursula/blob/master/Feathered_folk.md) ("Сказка о птицах") - сказка про Эрлинга и Рагнхильд.   
-2. [Small tale](https://github.com/vergona/Winterland-Ursula/blob/master/Small_tale.md) ("Маленькая история") - сказка Урсулы о ее прошлом. Очень завуалированная и метафорическая.
+1. [Feathered folk](https://github.com/vergona/Winterland-Ursula/blob/master/Feathered_folk.md) ("Сказка о птицах") - сказка про Эрлинга и Рагнхильд. Ложь, но в ней намёк;)  
+2. [Small tale](https://github.com/vergona/Winterland-Ursula/blob/master/Small_tale.md) ("Маленькая история") - можно ли любить ведьму?
 
 
 
@@ -52,5 +52,5 @@ www.vergona.github.io/Winterland-Ursula/
 :hp-tags: Иллурия, Винтерленд, тексты, НРИ, любые другие теги  
  **[d]**() ("d") - описание
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyMDk3NzAwXX0=
+eyJoaXN0b3J5IjpbLTUzNDUwMzE5Nl19
 -->
