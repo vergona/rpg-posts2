@@ -27,18 +27,19 @@ www.vergona.github.io/Winterland-Ursula/
 ## Последовательность текстов
 Квента (по "обрывкам воспоминаний", до Восточного)
 
- 1. **[d]**() ("d") - 
-Квента (предыстория Урсулы как ученицы ведьмы):
+ 1. [Ulma_Curse](https://github.com/vergona/Winterland-Ursula/blob/master/Ulma_curse.md) ("Проклятье Ульмы") - Ульма прогоняет Роберта из избы и запрещает думать об Урсуле.
 
- 1. [Midsummer Sula](https://raw.githubusercontent.com/vergona/Winterland-Ursula/blob/master/Midsummer_Sula.md) ("Ярмарка Середины Лета") - Ульма никогда не отпускала ученицу на ярмарку Середины Лета. И вот однажды девушке это надоело..
+ 2. [Midsummer Sula](https://github.com/vergona/Winterland-Ursula/blob/master/Midsummer_Sula.md) ("Ярмарка Середины Лета") - Ульма никогда не отпускала ученицу на ярмарку Середины Лета. И вот однажды девушке это надоело..
  
 Тексты "по-игре" (Урсула - ведьма):
 
-1а. **[Night and Norrastaden chatlog]**("Один чат-лог в Норрастадене") - исходный лог игры.
-1.  [Night and Norrastaden](https://raw.githubusercontent.com/vergona/Winterland-Ursula/blob/master/Night_n_Norrastaden.md) ("Одна ночь в Норрастадене") - Урсула, Роберт и искорка. Художественная обработка чат-лога.
+1а. **[Night and Norrastaden chatlog]**("Один чат-лог в Норрастадене") - исходный лог игры.  
+1  [Night and Norrastaden](https://github.com/vergona/Winterland-Ursula/blob/master/Night_n_Norrastaden.md) ("Одна ночь в Норрастадене") - Урсула, Роберт и искорка. Художественная обработка чат-лога.
 
-Альтернативные события (желаемое за действительное):
-1. [Feathered folk](https://raw.githubusercontent.com/vergona/Winterland-Ursula/blob/master/Feathered_folk.md) ("Сказка о птицах") - сказка Урсулы о ее прошлом. Очень завуалированная и метафорическая.
+Сказки (художественная интерпретация реальных историй):  
+1. [Feathered folk](https://github.com/vergona/Winterland-Ursula/blob/master/Feathered_folk.md) ("Сказка о птицах") - сказка про Эрлинга и Рагнхильд.   
+2. [Small tale](https://github.com/vergona/Winterland-Ursula/blob/master/Small_tale.md) ("Маленькая история") - сказка Урсулы о ее прошлом. Очень завуалированная и метафорическая.
+
 
 
 ## Шапка для текстов
@@ -51,5 +52,5 @@ www.vergona.github.io/Winterland-Ursula/
 :hp-tags: Иллурия, Винтерленд, тексты, НРИ, любые другие теги  
  **[d]**() ("d") - описание
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxNjA5NTU2XX0=
+eyJoaXN0b3J5IjpbOTIyMDk3NzAwXX0=
 -->
