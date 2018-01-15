@@ -4,7 +4,7 @@ www.vergona.github.io/Winterland-Ursula/
 Тексты про Урсулу и окружающих.
 
 ----
-## Временная линия Урсулы:
+## Жизнь Урсулы:
 + 6 лет назад, в конце зимы-начале весны. ~ 10/11 лет. Урсула, ее мать и "их" орк (Умменур - орчиха) сбегают с родной земли, приплывают в Западный город Винтерленда.
 + Позже. Орк (Уми) уходит "на заработки" на юг (вероятно, к Стражам).
 + ...
@@ -25,32 +25,35 @@ www.vergona.github.io/Winterland-Ursula/
 ----
 
 ## Последовательность текстов
-Квента (по "обрывкам воспоминаний", до Восточного)
+Квента (по "обрывкам воспоминаний", Восточный и ранее)
 
- 1. [Ulma Curse](https://github.com/vergona/Winterland-Ursula/blob/master/Ulma_curse.md) ("Проклятье Ульмы") - Ульма прогоняет Роберта из избы и запрещает думать об Урсуле.
+ 1. [Ulma Curse](https://github.com/vergona/Winterland-Ursula/blob/master/Ulma_curse.md) ("Проклятье Ульмы") - Ульма прогоняет Роберта из избы и запрещает думать об Урсуле.  
+ **Статус**: активная работа.
 
- 2. [Midsummer Sula](https://github.com/vergona/Winterland-Ursula/blob/master/Midsummer_Sula.md) ("Ярмарка Середины Лета") - Ульма никогда не отпускала ученицу на ярмарку Середины Лета. И вот однажды девушке это надоело..
+ 3. [Midsummer Sula](https://github.com/vergona/Winterland-Ursula/blob/master/Midsummer_Sula.md) ("Ярмарка Середины Лета") - Ульма никогда не отпускала ученицу на ярмарку Середины Лета. И вот однажды девушке это надоело...  
+ **Статус**: первый черновик.
  
-Тексты "по-игре" (Урсула - ведьма):
+***Тексты "по-игре" (Урсула - ведьма)***
 
-1а. **[Night and Norrastaden chatlog]**("Один чат-лог в Норрастадене") - исходный лог игры.  
-1  [Night and Norrastaden](https://github.com/vergona/Winterland-Ursula/blob/master/Night_n_Norrastaden.md) ("Одна ночь в Норрастадене") - Урсула, Роберт и искорка. Художественная обработка чат-лога.
+1. ![done](https://www.91-cdn.com/wap/images/tick-icon.png) [Night and Norrastaden](https://github.com/vergona/Winterland-Ursula/blob/master/Night_n_Norrastaden.md) ("Одна ночь в Норрастадене") - Урсула, Роберт и искорка. Художественная обработка чат-лога.  
+ **Статус**: завершен.
+3. !!! [Ursula dances](https://github.com/vergona/Winterland-Ursula/blob/master/Ursula_dances.md) ("Танец в огне", оно же "Суд в Белом Мысу") - Художественная обработка игры.  
+ **Статус**: завершен, но не на ГХ. 
 
-Сказки (художественная интерпретация реальных историй):  
-1. [Feathered folk](https://github.com/vergona/Winterland-Ursula/blob/master/Feathered_folk.md) ("Сказка о птицах") - сказка про Эрлинга и Рагнхильд. Ложь, но в ней намёк;)  
-2. [Small tale](https://github.com/vergona/Winterland-Ursula/blob/master/Small_tale.md) ("Маленькая история") - можно ли любить ведьму?
+***Сказки (художественная интерпретация реальных историй)***
+
+1. !!! [Feathered folk](https://github.com/vergona/Winterland-Ursula/blob/master/Feathered_folk.md) ("Сказка о птицах") - сказка про Эрлинга и Рагнхильд. Ложь, но в ней намёк;).  
+ **Статус**: n-нный черновик. Заморозка.
+2. [Small tale](https://github.com/vergona/Winterland-Ursula/blob/master/Small_tale.md) ("Маленькая история") - стоит ли связывать свою жизнь с ведьминой?.  
+ **Статус**: практически готов.
 
 
 
 ## Шапка для текстов
-= название.
-
-:was_at: YY лет назад; такой-то день MM DD, место
-
-:published_at: YYYY-MM-DD дата написания ИРЛ 
-
+= название.  
+:was_at: время (Х лет назад, уточнение даты)  и место  
+:published_at: YYYY-MM-DD дата ИРЛ   
 :hp-tags: Иллурия, Винтерленд, тексты, НРИ, любые другие теги  
- **[d]**() ("d") - описание
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQ2MzgyNzddfQ==
--->
+
+X. [Name](url) ("Название") - описание.  
+ **Статус**: статус.
