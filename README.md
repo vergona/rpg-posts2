@@ -44,6 +44,8 @@ www.vergona.github.io/Winterland-Ursula/
  **Статус**: завершен.
 3. !!! [Ursula dances](https://github.com/vergona/Winterland-Ursula/blob/master/Ursula_dances.md) ("Танец в огне", оно же "Суд в Белом Мысу") - Художественная обработка игры.  
  **Статус**: завершен, но не на ГХ. 
+4. ![done](https://www.91-cdn.com/wap/images/tick-icon.png) [Name](https://github.com/vergona/Winterland-Ursula/blob/master/To_Erling.md) ("Письмо за море" // "Есть такие дороги...") - письмо Урсулы к Эрлингу Скагге.  
+ **Статус**: завершен для игры - еще не отыграно.
 
 ***Сказки (художественная интерпретация реальных историй)***
 
@@ -60,5 +62,5 @@ www.vergona.github.io/Winterland-Ursula/
 :published_at: YYYY-MM-DD дата ИРЛ   
 :hp-tags: Иллурия, Винтерленд, тексты, НРИ, любые другие теги  
 
-X. [Name](url) ("Название") - описание.  
+X. [Name](https://github.com/vergona/Winterland-Ursula/blob/master/ .md) ("Название") - описание.  
  **Статус**: статус.
