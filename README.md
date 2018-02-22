@@ -64,6 +64,11 @@ www.vergona.github.io/Winterland-Ursula/
 
 X. [Name](https://github.com/vergona/Winterland-Ursula/blob/master/ .md) ("Название") - описание.  
  **Статус**: статус.
+
+
+Вот вам ^Над^сторочный  
+Вот вам ~под~строчный  
+~~Зачеркнутый~~.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4NjUyMTE5XX0=
+eyJoaXN0b3J5IjpbLTE5MjMzNzU4NDBdfQ==
 -->
