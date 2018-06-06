@@ -42,17 +42,15 @@ www.vergona.github.io/Winterland-Ursula/
 
 1. ![done](https://www.91-cdn.com/wap/images/tick-icon.png) [Night and Norrastaden](https://github.com/vergona/Winterland-Ursula/blob/master/Night_n_Norrastaden.md) ("Одна ночь в Норрастадене") - Урсула, Роберт и искорка. Художественная обработка чат-лога.  
  **Статус**: завершен.
-3. ![done](https://www.91-cdn.com/wap/images/tick-icon.png) [Ursula dances](https://github.com/vergona/Winterland-Ursula/blob/master/Ursula_dances.md) ("Танец в огне", оно же "Суд в Белом Мысу") - Художественная обработка игры.  
+3. ![done](https://www.91-cdn.com/wap/images/tick-icon.png)!! [Ursula dances](https://github.com/vergona/Winterland-Ursula/blob/master/Ursula_dances.md) ("Танец в огне", оно же "Суд в Белом Мысу") - Художественная обработка игры.  
  **Статус**: завершен. 
 4. ![done](https://www.91-cdn.com/wap/images/tick-icon.png) [To Erling](https://github.com/vergona/Winterland-Ursula/blob/master/To_Erling.md) ("Письмо за море" // "Есть такие дороги...") - письмо Урсулы к Эрлингу Скагге.  
  **Статус**: завершен. Письмо отдано Урсулой Арвиду Аску.
 
 ***Сказки (художественная интерпретация реальных историй)***
 
-1. !!! [Feathered folk](https://github.com/vergona/Winterland-Ursula/blob/master/Feathered_folk.md) ("Сказка о птицах") - сказка про Эрлинга и Рагнхильд. Ложь, но в ней намёк;).  
- **Статус**: n-нный черновик. Заморозка.
-2. [Small tale](https://github.com/vergona/Winterland-Ursula/blob/master/Small_tale.md) ("Маленькая история") - стоит ли связывать свою жизнь с ведьминой?.  
- **Статус**: практически готов.
+1. ![done](https://www.91-cdn.com/wap/images/tick-icon.png) [Small tale](https://github.com/vergona/Winterland-Ursula/blob/master/Small_tale.md) ("Маленькая история") - стоит ли связывать свою жизнь с ведьминой?  
+ **Статус**: завершен.
 
 
 
@@ -76,5 +74,6 @@ X. [Name](https://github.com/vergona/Winterland-Ursula/blob/master/ .md) ("На�
 eyJoaXN0b3J5IjpbLTE5MjMzNzU4NDBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDExNzA0MzZdfQ==
+eyJoaXN0b3J5IjpbLTE5NDMwNTg1MDgsLTcwOTcwODg3NywtMT
+A0MTE3MDQzNl19
 -->
