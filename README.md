@@ -41,12 +41,14 @@ www.vergona.github.io/Winterland-Ursula/
 ***Тексты "по-игре" (Урсула - ведьма)***
 
 1. ![done](https://www.91-cdn.com/wap/images/tick-icon.png) [Night and Norrastaden](https://github.com/vergona/Winterland-Ursula/blob/master/Night_n_Norrastaden.md) ("Одна ночь в Норрастадене") - Урсула, Роберт и искорка. Художественная обработка чат-лога.  
- **Статус**: завершен.
-3. ![done](https://www.91-cdn.com/wap/images/tick-icon.png)!! [Ursula dances](https://github.com/vergona/Winterland-Ursula/blob/master/Ursula_dances.md) ("Танец в огне", оно же "Суд в Белом Мысу") - Художественная обработка игры.  
- **Статус**: завершен. 
+ **Рейтинг**: R. **Статус**: завершен.
+3. ![done](https://www.91-cdn.com/wap/images/tick-icon.png) [Ursula dances](https://github.com/vergona/Winterland-Ursula/blob/master/Ursula_dances.md) ("Танец в огне", оно же "Суд в Белом Мысу") - Художественная обработка игры.  
+ **Рейтинг**: R. **Статус**: завершен. 
 4. ![done](https://www.91-cdn.com/wap/images/tick-icon.png) [To Erling](https://github.com/vergona/Winterland-Ursula/blob/master/To_Erling.md) ("Письмо за море" // "Есть такие дороги...") - письмо Урсулы к Эрлингу Скагге.  
  **Статус**: завершен. Письмо отдано Урсулой Арвиду Аску.
-
+5. [Overheated](https://github.com/vergona/Winterland-Ursula/blob/master/Overheated.md) ("Три девицы под окном") - поход Раймонды, Люси и Урсулы в термы Южного города.  
+ **Рейтинг**: NC-17, юри. **Статус**: переписывание с аудиозаписи.
+ 
 ***Сказки (художественная интерпретация реальных историй)***
 
 1. ![done](https://www.91-cdn.com/wap/images/tick-icon.png) [Small tale](https://github.com/vergona/Winterland-Ursula/blob/master/Small_tale.md) ("Маленькая история") - стоит ли связывать свою жизнь с ведьминой?  
@@ -55,9 +57,10 @@ www.vergona.github.io/Winterland-Ursula/
 
 
 ## Шапка для текстов
-= название.  
-:was_at: время (Х лет назад, уточнение даты)  и место  
-:published_at: YYYY-MM-DD дата ИРЛ   
+#название.  
+:was_at: время (Х лет назад, уточнение даты)  и место 
+:created_at: YYYY-MM-DD дата начала работы 
+:published_at: YYYY-MM-DD дата завершения   
 :hp-tags: Иллурия, Винтерленд, тексты, НРИ, любые другие теги  
 
 X. [Name](https://github.com/vergona/Winterland-Ursula/blob/master/ .md) ("Название") - описание.  
