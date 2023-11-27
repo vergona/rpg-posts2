@@ -1,7 +1,7 @@
 # До игры
 [Feathered_folk.md](https://github.com/vergona/Winterland-Ursula/blob/master/Feathered_folk.md) - сказка о птицах, память о Гринланде
 
-[Ulma's Curse](https://github.com/vergona/Winterland-Ursula/blob/master/Ulma_curse.md) - Проклятье Ульмы
+[Ulma_curse.md](https://github.com/vergona/Winterland-Ursula/blob/master/Ulma_curse.md) - Проклятье Ульмы
 
 [Midsummer_Sula.md](https://github.com/vergona/Winterland-Ursula/blob/master/Midsummer_Sula.md) - Ярмарка Середины Лета
 
